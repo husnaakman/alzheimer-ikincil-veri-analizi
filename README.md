@@ -1,7 +1,7 @@
 # Alzheimer Hastalığında Demografik ve Bilişsel Faktörlerin İkincil Veri Analizi
 
 Hüsna Akman - 361526087
-Araştırma Yöntem ve Teknikleri dersi proje çalışması (bireysel)
+Araştırma Yöntem ve Teknikleri dersi proje çalışması
 
 ## Problem ve Amaç
 
